@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm yd-wu
+![Anxiety](https://img.shields.io/static/v1?label=%E8%8B%A6%E7%97%9B&message=%E9%AB%98&color=%3Cblueviolet%3E&style=flat&logo=appveyor)
 <!--
 **yd-wu/yd-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently studying Computer Science at Columbia University.
+I have previously worked at Bloomberg as a backend software engineer.
